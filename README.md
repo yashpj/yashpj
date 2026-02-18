@@ -41,11 +41,10 @@ I’m a systems-focused developer with a passion for **AI/ML** and **Full-stack 
 ### 📊 GitHub Activity
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=yashpj&show_icons=true&theme=flat&hide_border=true" alt="Yash's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpj&layout=compact&theme=flat&hide_border=true" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashpj&show_icons=true&theme=flat&hide_border=true" alt="Yash's GitHub Stats" height="150" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashpj&layout=compact&theme=flat&hide_border=true" alt="Top Languages" height="150" />
 </p>
-
 ---
 
 ### 📫 Connect with me
-[LinkedIn]([https://www.linkedin.com/in/yash-gupta-ub/](https://www.linkedin.com/in/yash-g-55311819b/)) | [Portfolio](https://yashpj.github.io/my-dev-portfolio/) | yashgupt@buffalo.edu
+[LinkedIn](https://www.linkedin.com/in/yash-g-55311819b/) | [Portfolio](https://yashpj.github.io/my-dev-portfolio/) | yashgupt@buffalo.edu
