@@ -48,4 +48,4 @@ I’m a systems-focused developer with a passion for **AI/ML** and **Full-stack 
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/yash-gupta-ub/) | [Portfolio](https://yashpj.github.io/) | yashgupt@buffalo.edu
+[LinkedIn]([https://www.linkedin.com/in/yash-gupta-ub/](https://www.linkedin.com/in/yash-g-55311819b/)) | [Portfolio](https://yashpj.github.io/my-dev-portfolio/) | yashgupt@buffalo.edu
